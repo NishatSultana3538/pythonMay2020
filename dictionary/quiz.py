@@ -6,6 +6,7 @@
 # l1 ["moh"] = "pizza"
 # l1 ["rabia"] = "kebab"
 # l1 ["vicky"] = "iphone"
+# l1 ["vicky"] = "iphone"
 # print(l1)
 word = input("enter your word")
 dict = {"ankur":"teacher","jimmy":"player","john":"pizzaman","pranti": "burger", "priyana": "lemonhead", "tofael": "cars",

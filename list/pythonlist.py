@@ -9,6 +9,7 @@ print(grocery[3])
 numbers = [1,2,3,4,5,5,7,9] #this is a list
 print(numbers[2])
 print(numbers[5])
+print(numbers[5])
 
 numbers = [1,8,3,4,5,3,2,9]#this is a list
 numbers.sort()

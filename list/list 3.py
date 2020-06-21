@@ -1,5 +1,5 @@
 list = [5,7,3]
-print(15 in list)
+/print(15 in list)
 print("what is your age")
 age = int (input())
 
